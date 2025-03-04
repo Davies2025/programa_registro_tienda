@@ -27,7 +27,7 @@ try:
             print("EL RESULTADO ES:", resultado)
 
     else:
-        print("⚠ LA OPERACIÓN NO EXISTE.")
+        print(" LA OPERACIÓN NO EXISTE.")
 
 except ValueError:
     print("X ERROR: DEBES INGRESAR UN NÚMERO DE UNA OPERACIÓN")
