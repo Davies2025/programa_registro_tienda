@@ -6,7 +6,7 @@ confirmacion = int (input("CONFIRME LA CONTRASEÑA:"))
 while password1 != confirmacion:
     print ("CONTRASEÑA INCORRECTA")
     confirmacion = int(input("INGRESE DE NUEVO LA CONTRASEÑA:"))
-if password1 == confirmacion:
+if password1 == confirmacion:# ESTÁ DE MÁS JAJAJA
     print ("CONTRASEÑA CORRECTA")
     
 print ("¡Felicidades! La contraseña es correcta.")
